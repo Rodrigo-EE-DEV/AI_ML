@@ -1,2 +1,2 @@
-# AI_ML
-My Personal repository of AI ML lessons
+# DataScienceCourseFullLabs
+My Works In G-Coolab in the Udemy - ML online course
